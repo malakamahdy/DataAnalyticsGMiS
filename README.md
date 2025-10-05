@@ -2,7 +2,15 @@
 
 ## 🥈 Second Place out of 31 Teams
 
-## Solution for Team M&M&M  
+### How We Did It
+
+Our team developed a **Gradient Boosting Regression model** to predict **DC (direct current) output** based on various environmental and solar parameters.  
+We began by analyzing correlations between features such as **solar radiation, UV index, wind chill, and temperature**, identifying the most influential variables.  
+
+After testing multiple models — including **Linear Regression** and **Random Forest** — we selected **Gradient Boosting Regressor** for its superior accuracy and ability to capture nonlinear relationships.  
+The model was trained using an 80/20 train-test split, achieving an **R² score of 0.98** on the test data, **only 0.00001 accuracy off of first place**.  
+
+---
 
 ### Team Members
 
@@ -23,4 +31,6 @@
 5. Click **Files** and upload **D1** and **D2**.  
 6. Click the **Run all** button at the top.  
 7. The resulting **R² value** will appear at the bottom.  
-8. The generated **answer.txt** file contains the answer for **D2 DC**.
+8. The generated **answer.txt** file contains the answer for **D2 DC**.  
+
+---
