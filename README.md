@@ -7,7 +7,7 @@
 Our team developed a **Gradient Boosting Regression model** to predict **DC (direct current) output** based on various environmental and solar parameters.  
 We began by analyzing correlations between features such as **solar radiation, UV index, wind chill, and temperature**, identifying the most influential variables.  
 
-After testing multiple models — including **Linear Regression** and **Random Forest** — we selected **Gradient Boosting Regressor** for its superior accuracy and ability to capture nonlinear relationships.  
+After testing multiple models — including **Linear Regression** and **Random Forest** — we selected **Gradient Boosting Regressor** with parameter manipulation for its superior accuracy and ability to capture nonlinear relationships.  
 The model was trained using an 80/20 train-test split, achieving an **R² score of 0.98** on the test data, **only 0.00001 accuracy off of first place**.  
 
 ---
