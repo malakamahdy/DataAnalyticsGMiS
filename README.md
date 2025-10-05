@@ -1,4 +1,4 @@
-# Data Analytics Challenge at GMiS  
+# Data Analytics Challenge at GMiS 2025 
 
 ## 🥈 Second Place out of 31 Teams
 
