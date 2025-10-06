@@ -31,7 +31,7 @@ The model was trained using an 80/20 train-test split, achieving an **R² score 
 4. Drag and drop the file, or browse to upload it.  
 5. Click **Files** and upload **D1** and **D2**.  
 6. Click the **Run all** button at the top.  
-7. The resulting **R² value** will appear at the bottom.  
+7. The resulting **R² value** from the test dataset will appear at the bottom.  
 8. The generated **answer.txt** file contains the answer for **D2 DC**.  
 
 ---
