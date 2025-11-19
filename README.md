@@ -19,6 +19,6 @@ The model was trained using an 80/20 train-test split, achieving an **R² score 
 |------|-------------|----------------|
 | Madison Mejia, BS CS | New Mexico Institute of Mining and Technology | [@madmejia](https://github.com/madmejia) |
 | Malak Mahdy, BS CS | Texas A&M University–Corpus Christi | [@malakamahdy](https://github.com/malakamahdy) |
-| Yi-Ju (Mandy) Wang, MS DS | University of Houston | N/A|
+| Yi-Ju (Mandy) Wang, MS DS | University of Houston |[@mandy200602](https://github.com/mandy200602)|
 
 ---
